@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>949</width>
+    <height>514</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="styleSheet">
+    <string notr="true">*{
+border:none;
+background-color:transparent;
+background:none;
+padding:0;
+margin:0;
+color:rgb(0, 0, 0);
+
+}
+
+#widget{
+
+	background-color: #8D8C8C;
+
+}
+#text{
+
+	background-color: #8D8C8C;
+
+}
+
+#mainbody{
+
+	background-color: rgb(255, 255, 255);
+
+}
+
+#horizontal_line{
+
+	background-color: #8D8C8C;
+
+}
+#searchline{
+
+	background-color: #8D8C8C;
+
+}
+#verticle_line{
+
+	background-color: #8D8C8C;
+
+}
+
+#search{
+
+	background-color: #D9D9D9;
+
+}
+#textEdit{
+
+	background-color: #8D8C8C;
+
+}
+#exportBtn{
+  
+    background-color: #4397F9;
+    border-radius: 10px;
+property-icon: url(&quot;:/features/share.svg&quot;);
+    color: white;
+font-size: 16px;
+}
+
+#calender{
+
+  border: 1px solid #202020;
+    border-radius: 10px;
+
+}
+
+#exportBtn:hover{
+  
+    background-color:#8D8C8C;
+
+  
+}
+#search:hover{
+  
+    background-color: #8D8C8C;
+
+  
+}
+#history:hover{
+  
+    background-color: #8D8C8C;
+
+  
+}
+#report:hover{
+  
+    background-color: #8D8C8C;
+
+  
+}
+#trash:hover{
+  
+    background-color: #8D8C8C;
+
+  
+}
+
+#file:hover{
+  
+    background-color: #8D8C8C;
+
+  
+}
+#edit:hover{
+  
+    background-color: #8D8C8C;
+
+  
+}
+
+#view:hover{
+  
+    background-color: #8D8C8C;
+
+}
+
+#tools:hover{
+  
+    background-color: #8D8C8C;
+
+  
+}
+
+#help:hover{
+  
+    background-color: #8D8C8C;
+
+  
+}
+
+</string>
+   </property>
+   <widget class="QWidget" name="mainbody" native="true">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>31</y>
+      <width>951</width>
+      <height>481</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">#widget{
+
+	background-color: #8D8C8C;
+
+}</string>
+    </property>
+    <widget class="Line" name="horizontal_line">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>40</y>
+       <width>951</width>
+       <height>1</height>
+      </rect>
+     </property>
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+    </widget>
+    <widget class="Line" name="verticle_line">
+     <property name="geometry">
+      <rect>
+       <x>140</x>
+       <y>40</y>
+       <width>1</width>
+       <height>440</height>
+      </rect>
+     </property>
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="search">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>60</y>
+       <width>141</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>  My Searches</string>
+     </property>
+     <property name="icon">
+      <iconset resource="resources_2.qrc">
+       <normaloff>:/icons/feather/search.svg</normaloff>:/icons/feather/search.svg</iconset>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="history">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>100</y>
+       <width>141</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>   Search History</string>
+     </property>
+     <property name="icon">
+      <iconset resource="resources_2.qrc">
+       <normaloff>:/icons/feather/rotate-ccw.svg</normaloff>:/icons/feather/rotate-ccw.svg</iconset>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="report">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>140</y>
+       <width>141</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>  Report</string>
+     </property>
+     <property name="icon">
+      <iconset resource="resources_2.qrc">
+       <normaloff>:/icons/feather/file.svg</normaloff>:/icons/feather/file.svg</iconset>
+     </property>
+     <property name="iconSize">
+      <size>
+       <width>16</width>
+       <height>16</height>
+      </size>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="trash">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>180</y>
+       <width>141</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>  Trash</string>
+     </property>
+     <property name="icon">
+      <iconset resource="resources_2.qrc">
+       <normaloff>:/icons/feather/trash-2.svg</normaloff>:/icons/feather/trash-2.svg</iconset>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="file">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>0</y>
+       <width>61</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>File</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="edit">
+     <property name="geometry">
+      <rect>
+       <x>71</x>
+       <y>0</y>
+       <width>61</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Edit</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="view">
+     <property name="geometry">
+      <rect>
+       <x>132</x>
+       <y>0</y>
+       <width>61</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>View</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="tools">
+     <property name="geometry">
+      <rect>
+       <x>193</x>
+       <y>0</y>
+       <width>61</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Tools</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="help">
+     <property name="geometry">
+      <rect>
+       <x>254</x>
+       <y>0</y>
+       <width>61</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Help</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="exportBtn">
+     <property name="geometry">
+      <rect>
+       <x>800</x>
+       <y>90</y>
+       <width>131</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>   Export</string>
+     </property>
+     <property name="icon">
+      <iconset resource="resources_2.qrc">
+       <normaloff>:/icons/feather/share.svg</normaloff>:/icons/feather/share.svg</iconset>
+     </property>
+     <property name="iconSize">
+      <size>
+       <width>20</width>
+       <height>20</height>
+      </size>
+     </property>
+    </widget>
+    <widget class="QComboBox" name="calender">
+     <property name="geometry">
+      <rect>
+       <x>580</x>
+       <y>90</y>
+       <width>181</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <item>
+      <property name="text">
+       <string>Jan - Mar (1st QUARTER)</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>April - June (2nd QUARTER)</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>July - Sep (3rd QUARTER)</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Oct - Dec (4th QUARTER)</string>
+      </property>
+     </item>
+    </widget>
+    <widget class="QTableWidget" name="tableWidget">
+     <property name="geometry">
+      <rect>
+       <x>160</x>
+       <y>150</y>
+       <width>771</width>
+       <height>321</height>
+      </rect>
+     </property>
+     <column>
+      <property name="text">
+       <string>Cites</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Per year</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Rank</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Author</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Title</string>
+      </property>
+     </column>
+    </widget>
+    <widget class="QLineEdit" name="lineEdit">
+     <property name="geometry">
+      <rect>
+       <x>170</x>
+       <y>90</y>
+       <width>361</width>
+       <height>31</height>
+      </rect>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="pushButton">
+     <property name="geometry">
+      <rect>
+       <x>437</x>
+       <y>90</y>
+       <width>91</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="icon">
+      <iconset resource="resources_2.qrc">
+       <normaloff>:/icons/feather/search.svg</normaloff>:/icons/feather/search.svg</iconset>
+     </property>
+     <property name="iconSize">
+      <size>
+       <width>20</width>
+       <height>20</height>
+      </size>
+     </property>
+    </widget>
+    <widget class="Line" name="searchline">
+     <property name="geometry">
+      <rect>
+       <x>160</x>
+       <y>120</y>
+       <width>331</width>
+       <height>1</height>
+      </rect>
+     </property>
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QWidget" name="widget" native="true">
+    <property name="geometry">
+     <rect>
+      <x>-1</x>
+      <y>0</y>
+      <width>951</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <widget class="QTextEdit" name="textEdit">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>0</y>
+       <width>141</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="html">
+      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Ubuntu Sans'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Article Publisher&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     </property>
+    </widget>
+   </widget>
+  </widget>
+ </widget>
+ <resources>
+  <include location="resources_2.qrc"/>
+ </resources>
+ <connections/>
+</ui>

@@ -75,7 +75,7 @@ color:rgb(0, 0, 0);
   
     background-color: #4397F9;
     border-radius: 10px;
-property-icon: url(&quot;:/features/share.svg&quot;);
+property-icon: url(&quot;:icons/features/share.svg&quot;);
     color: white;
 font-size: 16px;
 }
@@ -149,6 +149,50 @@ font-size: 16px;
     background-color: #8D8C8C;
 
   
+}
+
+#searchlineBtn:hover{
+  
+    background-color: #8D8C8C;
+border-radius: 15px;
+
+  
+}
+
+
+/* For the entire QComboBox named 'calender' */
+QComboBox#calender {
+
+    padding: 1px 18px 1px 3px;
+
+}
+
+/* For the drop-down arrow of 'calender' */
+QComboBox#calender::drop-down {
+    subcontrol-origin: padding;
+    subcontrol-position: top right;
+    width: 15px;
+    border-left-width: 1px;
+    
+    border-left-style: solid;
+    border-radius: 7px;
+    
+}
+
+QComboBox#calender::drop-down {
+
+    border-radius: 7px;
+image: url( :/icons/feather/arrow-down.svg);
+    width: 18px;
+    height: 28px;
+
+}
+
+
+/* For the popup list of 'calender' */
+QComboBox#calender QAbstractItemView {
+    border: 1px solid gray;
+    selection-background-color: lightgray;
 }
 
 </string>
@@ -402,29 +446,37 @@ font-size: 16px;
        <height>321</height>
       </rect>
      </property>
+     <property name="columnCount">
+      <number>6</number>
+     </property>
      <column>
       <property name="text">
-       <string>Cites</string>
+       <string>Authors</string>
       </property>
      </column>
      <column>
       <property name="text">
-       <string>Per year</string>
-      </property>
-     </column>
-     <column>
-      <property name="text">
-       <string>Rank</string>
-      </property>
-     </column>
-     <column>
-      <property name="text">
-       <string>Author</string>
+       <string>Year</string>
       </property>
      </column>
      <column>
       <property name="text">
        <string>Title</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Journal</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Volume</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Page</string>
       </property>
      </column>
     </widget>
@@ -438,7 +490,7 @@ font-size: 16px;
       </rect>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton">
+    <widget class="QPushButton" name="searchlineBtn">
      <property name="geometry">
       <rect>
        <x>437</x>

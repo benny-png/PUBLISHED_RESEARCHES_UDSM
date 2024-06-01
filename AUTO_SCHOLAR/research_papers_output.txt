@@ -1,0 +1,57 @@
+Amour I. S., Abdalla A. T., Simba F., Kitta S. (2023). Humanization of Online Mathematics Questions Development and Logical Grading Techniques.
+Maiseli B., Abdalla A. T., Massawe L. V., Mbise M., Mkocha K., Nassor N. A., Ismail M., Michael J., Kimambo S. (2023). Brain–computer interface: trend, challenges, and threats. Brain informatics, 10, 20.
+Kalinga E., Nyamle E., Abdalla A. (2023). Modelling Prediction of Cities Real Estate Price Trend Using Recurrent Neural Network: A Case of Dar es Salaam City. Tanzania Journal of Engineering and Technology, 42, 64-77.
+Amour I. S., Simba F., Kitta S., Abdalla A. T. (2023). Digitisation of Classical Exercise Practices with STACK: Management of Large Mathematics Classes in Higher Education Institutions. Tanzania Journal of Science, 49, 921-929.
+Gadiel G. M., Ibwe K., Abdalla A. T. (2023). Energy efficient phase interpolator based hybrid beamforming architecture for massive MIMO system. Telecommunication Systems, 1-10.
+ABDALLA A., Ibwe K. (2023). Smart Grid in Tanzania: Research Opportunities. Tanzania Journal of Engineering and Technology, 42, 170-183.
+Abdalla A., Amour I. (2023). Through-The-Wall Radar Imaging-Ghost Suppression with Compressive Sensing. 200.
+Mkemwa F., Abdalla A. T., Maiseli B., Amour I., Muqaibel A. (2023). Effective path-loss compensation model based on multipath exploitation for through-the-wall radar imaging. EURASIP Journal on Advances in Signal Processing, 2023, 42.
+Kalinga E. A., Bazila S., Ibwe K., Abdalla A. T. (2023). Cognitive internet of things-based framework for efficient consumption of electrical energy in public higher learning institutions. Journal of Electrical Systems and Information Technology, 10, 19.
+Shayo E. I., Abdalla A. T., Mwambela A. J. (2023). Dynamic multi-frame multi-spreading factor scheduling algorithm for LoRaWAN. Journal of Electrical Systems and Information Technology, 10, 11.
+Ibwe K., Pande S., Abdalla A. T., Gadiel G. M. (2023). Indoor positioning using circle expansion-based adaptive trilateration algorithm. Journal of Electrical Systems and Information Technology, 10, 10.
+Abdalla A., Haji N. (2023). Smart Fishing Gear to Enhance the Blue Economy.
+Mwambela A. J. (2023). Evaluation of Image Enhancement Techniques for Electrical Capacitance Tomography Applications. Tanzania Journal of Science, 49, 116-129.
+Shayo E. I., Abdalla A. T., Mwambela A. J. (2023). Dynamic multi-frame multi-spreading factor scheduling algorithm for LoRaWAN. Journal of Electrical Systems and Information Technology, 10, 11.
+Mushi A. T., Justo J. J., Katemi R. J., Wikedzi A. W., Bitebo A. T., Mwakijale J. S., Chibwana F. D., Katandukila J. V., Budeba M. D. (2023). Digitalization of Tanzania Health Care Services: Telemedicine Infrastructures to Link Rural and Urban Areas. MUST Journal of Research and Development, 2, 12-12.
+Mathenge V. W., Sambaiga R., Bitebo A., Mushashu A., Sang M.'anya, Shaweji F., Mbwilo G., Mayao V., Mlembwa J., Rangi J., Onuekwe C., Kileo N., Mwengee W., Sagoe C.-Moses (2023). The development of a digital NGO mapping platform in Tanzania, as a tool to strengthen civil society engagement, in pursuit of Universal Health Coverage. Pan Afr. med. j,
+Maro S., Kondoro A., Mtebe J. (2023). Using Mentimeter to Enhance Students’ Engagement in Large University Classes-A Survey of Students’ Perceptions. 1-8.
+Kondoro A., Maro S., Mtebe J., Proctor J., Komba A., HAßLER B. (2023). Towards Improving the Accessibility and Usability of a Mobile-based Learning Management System for Blind Primary School Teachers. 1-10.
+Namane S., Ahmim M., Kondoro A., Dhaou I. B. (2023). Blockchain-Based Authentication Scheme for Collaborative Traffic Light Systems Using Fog Computing. Electronics, 12, 431.
+Kondoro A., Maro S., Mtebe J., Haßler B., Proctor J. (2023). Usability Testing of a Mobile-Based Learning Management System for Teacher Continuous Professional Development in Tanzania.. International Journal of Education and Development using Information and Communication Technology, 19, 75-92.
+Maro M. S., Kondoro A., Haßler B., Mtebe J., Proctor J. (2023). Deployment of Offline Learning Management Systems: Comparing the Performance of Selected Micro-Servers in Tanzania.. Journal of Learning for Development, 10, 280-296.
+Bua A., Kapyela G., Massawe L., Maiseli B. (2024). Edge-aware nonlinear diffusion-driven regularization model for despeckling synthetic aperture radar images. EURASIP Journal on Image and Video Processing, 2024, 5.
+Maiseli B., Abdalla A. T., Massawe L. V., Mbise M., Mkocha K., Nassor N. A., Ismail M., Michael J., Kimambo S. (2023). Brain–computer interface: trend, challenges, and threats. Brain informatics, 10, 20.
+Msuya H., Maiseli B. J. (2023). Deep Learning Model Compression Techniques: Advances, Opportunities, and Perspective. Tanzania Journal of Engineering and Technology, 42, 65-83.
+Mkemwa F., Abdalla A. T., Maiseli B., Amour I., Muqaibel A. (2023). Effective path-loss compensation model based on multipath exploitation for through-the-wall radar imaging. EURASIP Journal on Advances in Signal Processing, 2023, 42.
+Mbembati H., Ibwe K., Maiseli B. (2023). Maintenance Scheduling Algorithm for Transformers in Tanzania Electrical Secondary Distribution Networks. Tanzania Journal of Science, 49, 167-182.
+Maiseli B. (2023). Nonlinear anisotropic diffusion methods for image denoising problems: Challenges and future research opportunities. Array, 17, 100265.
+Kalinga E., Nyamle E., Abdalla A. (2023). Modelling Prediction of Cities Real Estate Price Trend Using Recurrent Neural Network: A Case of Dar es Salaam City. Tanzania Journal of Engineering and Technology, 42, 64-77.
+Kalinga E. A., Bazila S., Ibwe K., Abdalla A. T. (2023). Cognitive internet of things-based framework for efficient consumption of electrical energy in public higher learning institutions. Journal of Electrical Systems and Information Technology, 10, 19.
+Msangawale E. M., Kalinga E., Kimaro H., Igira F. (2023). Exploring the Challenges Facing the ICT Industry Innovation Processes in Tanzania. International Journal of ICT Research in Africa and the Middle East (IJICTRAME), 12, 1-13.
+Lema H., Simba F., Mushi J. (2023). Security Enhancement of SIP Protocol in VoIP Communication. Journal of ICT Systems, 1, 71-92.
+Amour I. S., Abdalla A. T., Simba F., Kitta S. (2023). Humanization of Online Mathematics Questions Development and Logical Grading Techniques.
+Amour I. S., Simba F., Kitta S., Abdalla A. T. (2023). Digitisation of Classical Exercise Practices with STACK: Management of Large Mathematics Classes in Higher Education Institutions. Tanzania Journal of Science, 49, 921-929.
+Magolanga E. M., Michael A., Simba F. (2023). The Use of Online Social Media Platforms by Tanzania Journalists to Produce and Disseminate Development News. Tanzania Journal of Engineering and Technology, 41.
+Mkemwa F., Abdalla A. T., Maiseli B., Amour I., Muqaibel A. (2023). Effective path-loss compensation model based on multipath exploitation for through-the-wall radar imaging. EURASIP Journal on Advances in Signal Processing, 2023, 42.
+Mudhivarthi B. R., Thakur P., Iddi H. U., Singh G. (2023). Enhanced Message Authentication Code for Controller Area Network. 1-6.
+Maziku H., Kateule R., Tlemu E. (2024). Usability and Acceptability of a SWASH Mobile Intervention for Behaviour Change in WASH Practices. East African Journal of Information Technology, 7, 39-50.
+Masua B., Masasi N., Maziku H., Mbwilo B. (2023). The Impact of Applying Different Pre-Processing Techniques on Swahili Textual Data Using Doc2Vec. Natural Language Processing Research, 3, 1-13.
+Duma R. A., Niu Z., Nyamawe A., Tchaye J.-Kondi, Chambua J., Yusuf A. A. (2024). DHMFRD–TER: a deep hybrid model for fake review detection incorporating review texts, emotions, and ratings. Multimedia Tools and Applications, 83, 4533-4549.
+Tunga M., Lungo J. H., Chambua J., Kateule R., Lyatuu I. (2023). Exploring challenges and recommendations for verbal autopsy implementation in low-/middle-income countries: a cross-sectional study of Iringa Region—Tanzania. BMJ open, 13, e075399.
+Barongo R. I., Mbelwa J. T. (2024). Using machine learning for detecting liquidity risk in banks. Machine Learning with Applications, 15, 100511.
+Magashi C. H., Agbinya J., Sam A., Mbelwa J. (2024). Prediction of SACCOS Failure in Tanzania using Machine Learning Models. Engineering, Technology & Applied Science Research, 14, 12887-12891.
+Moyo R., Ndebvu S., Zimba M., Mbelwa J. (2023). Using CNN to Detect the Use of Mobile Phone in Examination Rooms.
+Magashi C., Sam A., Agbinya J., Mbelwa J. (2023). Indicative Factors for SACCOs Failure in Tanzania. Engineering, Technology & Applied Science Research, 13, 11177-11181.
+Moyo R., Ndebvu S., Zimba M., Mbelwa J. (2023). A Video-based Detector for Suspicious Activity in Examination with OpenPose. arXiv preprint arXiv:2307.11413,
+Kivaisi A. R., Zhao Q., Mbelwa J. T. (2023). Swahili Speech Dataset Development and Improved Pre-training Method for Spoken Digit Recognition. ACM Transactions on Asian and Low-Resource Language Information Processing, 22, 1-24.
+Mbelwa J., Agbinya J., Mwita M., Sam A. (2023). The Effect of Hyperparameter Optimization on the Estimation of Performance Metrics in Network Traffic Prediction using the Gradient Boosting Machine Model.
+Kondoro A., Maro S., Mtebe J., HAßLER B., Proctor J. (2023). Usability Testing of a Mobile-based Learning Management System for Teacher Continuous Professional Development in Tanzania. International Journal of Education and Development using Information and Communication, 19, 75-92.
+Maro S., Kondoro A., Haßler B., Mtebe J., Proctor J. (2023). Deployment of Offline Learning Management Systems: Comparing the Performance of Selected Micro-servers in Tanzania. Journal of Learning for Development, 10.
+Maro S., Kondoro A., Mtebe J. (2023). Using Mentimeter to Enhance Students’ Engagement in Large University Classes-A Survey of Students’ Perceptions.
+Kondoro A., Maro S., Mtebe J., Proctor J., Komba B., Aneth, HAßLER (2023). Towards Improving the Accessibility and Usability of a Mobile-based Learning Management System for Blind Primary School Teachers. 1-10.
+Haßler B., Peralta X. V., Macharia G., Toyinbo O., Nambatya M., Mtebe J., Schaffer J., Wargocki P., Adam T. (2023). Improving Learning Through Classroom Experience in East Africa: Temperature, Lighting, and Sound Quality.
+Raphael C., Mtebe J. S. (2023). Understanding teachers’ technological and pedagogical knowledge at the University of Dar es Salaam in the New Normal Era: Situating teaching in the TPACK Framework. University of Dar es Salaam Library Journal, 18.
+Lema H., Simba F., Mushi J. (2023). Security Enhancement of SIP Protocol in VoIP Communication. Journal of ICT Systems, 1, 71-92.
+Abdul-Ali m., Mushi J. (2023). Investigation of a Suitable Hybrid Time Series Model for Predicting Clove Price. Journal of ICT Systems, 1, 1-16.
+Ibwe K. S. (2023). Principles of Practical Electronics. 1, 238.
+Gadiel G. M., Ibwe K., Abdalla A. T. (2023). Energy efficient phase interpolator based hybrid beamforming architecture for massive MIMO system. Telecommunication Systems, 1-10.

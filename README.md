@@ -5,7 +5,7 @@
 This project aims to automate the process of research paper data collection for UDSM lectures and Professors from the Google Scholar website and build an admin Dashboard Desktop app to manage them (a still on going process). The application is built using Python and PyQt5 for the UI interface and uses Selenium for web automation. The primary goal is to reduce the manual effort involved in adding thousands of research papers to the UDSM database system.
 
 
-# Demo Selenium Automated Web Scraping
+## Demo Selenium Automated Web Scraping
 ![Google Sholar AUTOMATION Demo](https://github.com/benny-png/PUBLISHED_RESEARCHES_UDSM/blob/main/seleniumautomation.gif)
 
 

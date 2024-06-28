@@ -16,5 +16,5 @@ The UI interface is created using PyQt5 (though the prototype UI was designed in
 
 ![the desktop app Demo](https://github.com/benny-png/PUBLISHED_RESEARCHES_UDSM/blob/main/pyqtUI.jpeg)
 
-The figma design here [here](https://www.figma.com/file/guv09mx5FodO4mNoIn0cZR/Article-project?type=design&node-id=0%3A1&mode=design&t=J3zJ0awJwU4PXhYF-1) credits to [here](https://github.com/PeachAlda) 
+The figma design  [here](https://www.figma.com/file/guv09mx5FodO4mNoIn0cZR/Article-project?type=design&node-id=0%3A1&mode=design&t=J3zJ0awJwU4PXhYF-1) credits to [PeachAlda](https://github.com/PeachAlda) 
 

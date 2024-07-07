@@ -8,3 +8,5 @@ requests==2.25.1
 urllib3==1.26.6
 pyQt5
 pyinstaller
+openpyxl
+selenium

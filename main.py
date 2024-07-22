@@ -3,13 +3,21 @@ import csv
 from PyQt5 import uic
 from PyQt5.QtWidgets import QApplication, QMainWindow, QTableWidgetItem, QFileDialog
 import generated_resource  # Ensure this import matches your actual resource file
-from new_xlsx_test import export_to_excel
-
+#from new_xlsx_test import export_to_excel
+import os
 
 class MyApp(QMainWindow):
     def __init__(self):
         super(MyApp, self).__init__()
-        uic.loadUi('./interface_scholar.ui', self)
+        
+        # Determine if running in a PyInstaller bundle
+        if hasattr(sys, '_MEIPASS'):
+            base_path = sys._MEIPASS
+        else:
+            base_path = os.path.abspath(".")
+
+        # Load the UI file
+        uic.loadUi(os.path.join(base_path, 'interface_scholar.ui'), self)
         
         # Access the table widget by its object name (as defined in Qt Designer)
         self.table_widget = self.tableWidget  # Replace 'tableWidget' with the actual object name
@@ -19,7 +27,7 @@ class MyApp(QMainWindow):
         self.table_widget.setHorizontalHeaderLabels(['Authors', 'Year', 'Title', 'Journal', 'Volume', 'Page'])
         
         # Populate the table with data
-        self.populate_table()
+        self.populate_table(base_path)
         
         # Add search functionality
         self.lineEdit.textChanged.connect(self.search_table)
@@ -27,8 +35,8 @@ class MyApp(QMainWindow):
         # Connect the export button to the export function
         self.exportBtn.clicked.connect(self.export_data)
 
-    def populate_table(self):
-        csv_file_path = './Research_paper_details.csv'
+    def populate_table(self, base_path):
+        csv_file_path = os.path.join(base_path, 'Research_paper_details.csv')
         
         data = []
         try:
@@ -75,17 +83,20 @@ class MyApp(QMainWindow):
         options = QFileDialog.Options()
         file_path, _ = QFileDialog.getSaveFileName(self, "Save File", "", "Excel Files (*.xlsx)")
 
-        
-
         if file_path:
-             # Check if the file path ends with ".xlsx", if not, append it
-             if not file_path.endswith(".xlsx"):
-                 file_path += ".xlsx"
-        
-        # Call the export_to_excel function
-             csv_file_path = './Research_paper_details.csv'
-             export_to_excel(csv_file_path, file_path)
-             print(f"Data exported successfully to {file_path}")
+            # Check if the file path ends with ".xlsx", if not, append it
+            if not file_path.endswith(".xlsx"):
+                file_path += ".xlsx"
+            #define base path
+            if hasattr(sys, '_MEIPASS'):
+                base_path = sys._MEIPASS
+            else:
+                base_path = os.path.abspath(".")
+            # Call the export_to_excel function
+            csv_file_path = os.path.join(base_path, 'Research_paper_details.csv')
+            #export_to_excel(csv_file_path, file_path)
+            print(f"Data exported successfully to {file_path}")
+
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     window = MyApp()
